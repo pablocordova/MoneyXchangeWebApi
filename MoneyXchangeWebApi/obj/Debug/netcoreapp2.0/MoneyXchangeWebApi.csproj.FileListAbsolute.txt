@@ -1,0 +1,11 @@
+C:\Users\pccm\source\repos\MoneyXchangeWebApi\MoneyXchangeWebApi\bin\Debug\netcoreapp2.0\MoneyXchangeWebApi.deps.json
+C:\Users\pccm\source\repos\MoneyXchangeWebApi\MoneyXchangeWebApi\bin\Debug\netcoreapp2.0\MoneyXchangeWebApi.runtimeconfig.json
+C:\Users\pccm\source\repos\MoneyXchangeWebApi\MoneyXchangeWebApi\bin\Debug\netcoreapp2.0\MoneyXchangeWebApi.runtimeconfig.dev.json
+C:\Users\pccm\source\repos\MoneyXchangeWebApi\MoneyXchangeWebApi\bin\Debug\netcoreapp2.0\MoneyXchangeWebApi.dll
+C:\Users\pccm\source\repos\MoneyXchangeWebApi\MoneyXchangeWebApi\bin\Debug\netcoreapp2.0\MoneyXchangeWebApi.pdb
+C:\Users\pccm\source\repos\MoneyXchangeWebApi\MoneyXchangeWebApi\obj\Debug\netcoreapp2.0\MoneyXchangeWebApi.csprojResolveAssemblyReference.cache
+C:\Users\pccm\source\repos\MoneyXchangeWebApi\MoneyXchangeWebApi\obj\Debug\netcoreapp2.0\MoneyXchangeWebApi.csproj.CoreCompileInputs.cache
+C:\Users\pccm\source\repos\MoneyXchangeWebApi\MoneyXchangeWebApi\obj\Debug\netcoreapp2.0\MoneyXchangeWebApi.AssemblyInfoInputs.cache
+C:\Users\pccm\source\repos\MoneyXchangeWebApi\MoneyXchangeWebApi\obj\Debug\netcoreapp2.0\MoneyXchangeWebApi.AssemblyInfo.cs
+C:\Users\pccm\source\repos\MoneyXchangeWebApi\MoneyXchangeWebApi\obj\Debug\netcoreapp2.0\MoneyXchangeWebApi.dll
+C:\Users\pccm\source\repos\MoneyXchangeWebApi\MoneyXchangeWebApi\obj\Debug\netcoreapp2.0\MoneyXchangeWebApi.pdb
